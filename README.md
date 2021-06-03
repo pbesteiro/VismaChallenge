@@ -7,11 +7,11 @@ The following tools were used in this project:
 ●	Autommaper
 ●	Fluent Api
 ●	Entity Frameworks
-●	Dependency inkjections
+●	Dependency injections
 ●	Fluent Validations
 ●	Generic Repository
 ●	Security API with JWT
-●	HAshing PAsswords
+●	Hashing Passwords
 ●	Swagger Documentation
 
 
